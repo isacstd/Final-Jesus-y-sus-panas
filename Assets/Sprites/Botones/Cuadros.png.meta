@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: c87ec2c1c31f34658974eeb74979acc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7894499900544133771
+    second: Cuadros_0
+  - first:
+      213: -5789496759454589300
+    second: Cuadros_1
+  - first:
+      213: 3432575395143433564
+    second: Cuadros_2
+  - first:
+      213: 7098579402460509668
+    second: Cuadros_3
+  - first:
+      213: 2764514773725254026
+    second: Cuadros_4
+  - first:
+      213: -8491288788564049013
+    second: Cuadros_5
+  - first:
+      213: -7584911985606966957
+    second: Cuadros_6
+  - first:
+      213: -1621347284735484219
+    second: Cuadros_7
+  - first:
+      213: -8255641478708259939
+    second: Cuadros_8
+  - first:
+      213: -8937818013789827321
+    second: Cuadros_9
+  - first:
+      213: 6941554889816245966
+    second: Cuadros_10
+  - first:
+      213: -6211483669299844217
+    second: Cuadros_11
+  - first:
+      213: 5846647348342676736
+    second: Cuadros_12
+  - first:
+      213: 8320995613366318504
+    second: Cuadros_13
+  - first:
+      213: -8564045651867919477
+    second: Cuadros_14
+  - first:
+      213: -7948373740614246193
+    second: Cuadros_15
+  - first:
+      213: -2846100241213063492
+    second: Cuadros_16
+  - first:
+      213: 1092960195693241220
+    second: Cuadros_17
+  - first:
+      213: -6519247626963311976
+    second: Cuadros_18
+  - first:
+      213: 8010529224121265353
+    second: Cuadros_19
+  - first:
+      213: 7563526691210782734
+    second: Cuadros_20
+  - first:
+      213: -346145810075849666
+    second: Cuadros_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cuadros_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1589
+        width: 356
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575d5b4da2a117290800000000000000
+      internalID: -7894499900544133771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1579
+        width: 365
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e1f601f5397afa0800000000000000
+      internalID: -5789496759454589300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_2
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1575
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d3544a225f2af20800000000000000
+      internalID: 3432575395143433564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 142
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5309d4b58338260800000000000000
+      internalID: 7098579402460509668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1254
+        width: 144
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8196382a878d5620800000000000000
+      internalID: 2764514773725254026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1272
+        width: 127
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830268e5d1e82a80800000000000000
+      internalID: -8491288788564049013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1372
+        width: 331
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3514b455cbafcb690800000000000000
+      internalID: -7584911985606966957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1129
+        width: 277
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce1ccb1c31df79e0800000000000000
+      internalID: -1621347284735484219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 907
+        width: 296
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d931d9cb0d11e6d80800000000000000
+      internalID: -8255641478708259939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 896
+        width: 296
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f48fcfedd76f380800000000000000
+      internalID: -8937818013789827321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 501
+        width: 238
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68f54f46b555060800000000000000
+      internalID: 6941554889816245966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 500
+        width: 230
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b2e3b33806cc9a0800000000000000
+      internalID: -6211483669299844217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 530
+        width: 193
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd1f459c6732150800000000000000
+      internalID: 5846647348342676736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 766
+        width: 171
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a578408c6d1a7370800000000000000
+      internalID: 8320995613366318504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_14
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 713
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b1f289ad5662980800000000000000
+      internalID: -8564045651867919477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 493
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc025a8f134b1b190800000000000000
+      internalID: -7948373740614246193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 453
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe775fe8ee9088d0800000000000000
+      internalID: -2846100241213063492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 88
+        width: 229
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483efe9d189fa2f00800000000000000
+      internalID: 1092960195693241220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_18
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 270
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922b00e2daf685a0800000000000000
+      internalID: -6519247626963311976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_19
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 270
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc22a243ed1b2f60800000000000000
+      internalID: 8010529224121265353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_20
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 230
+        width: 90
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08edcec37b07f860800000000000000
+      internalID: 7563526691210782734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuadros_21
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 165
+        width: 153
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c60fd383e323bf0800000000000000
+      internalID: -346145810075849666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0f27ecf36e4b44507b73d9a4f7c5b754
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cuadros_0: -7894499900544133771
+      Cuadros_1: -5789496759454589300
+      Cuadros_10: 6941554889816245966
+      Cuadros_11: -6211483669299844217
+      Cuadros_12: 5846647348342676736
+      Cuadros_13: 8320995613366318504
+      Cuadros_14: -8564045651867919477
+      Cuadros_15: -7948373740614246193
+      Cuadros_16: -2846100241213063492
+      Cuadros_17: 1092960195693241220
+      Cuadros_18: -6519247626963311976
+      Cuadros_19: 8010529224121265353
+      Cuadros_2: 3432575395143433564
+      Cuadros_20: 7563526691210782734
+      Cuadros_21: -346145810075849666
+      Cuadros_3: 7098579402460509668
+      Cuadros_4: 2764514773725254026
+      Cuadros_5: -8491288788564049013
+      Cuadros_6: -7584911985606966957
+      Cuadros_7: -1621347284735484219
+      Cuadros_8: -8255641478708259939
+      Cuadros_9: -8937818013789827321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
